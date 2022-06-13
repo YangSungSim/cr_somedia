@@ -1,8 +1,8 @@
-# untitled3
+# Crawling social media cafe
 
 ## Project setup
 ```
-yarn install
+npm install
 ```
 
 ### Customize configuration
