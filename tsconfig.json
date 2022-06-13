@@ -1,0 +1,22 @@
+{
+    "compilerOptions": {
+        "lib": [ "es6", "dom"],
+        "esModuleInterop": true,
+        "allowSyntheticDefaultImports": true,
+        "allowJs": true,
+        "emitDecoratorMetadata": true,
+        "experimentalDecorators": true,
+        "jsx": "react",
+        "module": "commonjs",
+        "moduleResolution": "node",
+        "noEmitOnError": true,
+        "noImplicitAny": false,
+        "sourceMap": true,
+        "suppressImplicitAnyIndexErrors": true,
+        "target": "ES2016",
+        "typeRoots": [
+            "node_modules/@types/",
+            "typings/index.d.ts"
+        ]
+    },
+}

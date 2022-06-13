@@ -1,2 +1,9 @@
-# cr_somedia
-# initial_commit list
+# untitled3
+
+## Project setup
+```
+yarn install
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).

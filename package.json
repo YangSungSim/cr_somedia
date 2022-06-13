@@ -1,0 +1,28 @@
+{
+  "name": "untitled3",
+  "version": "1.0.0",
+  "description": "## Project setup ``` yarn install ```",
+  "main": "index.js",
+  "dependencies": {
+    "@types/puppeteer": "^5.4.6",
+    "agenda": "^3.1.0",
+    "inspector": "^0.5.0",
+    "moment": "^2.26.0",
+    "mongodb": "^3.5.9",
+    "nodemon": "^2.0.4",
+    "pg": "^8.7.3",
+    "pupeteer": "^0.0.1",
+    "puppeteer": "^4.0.0",
+    "puppeteer-core": "^4.0.0",
+    "typescript": "^3.9.5",
+    "vue": "^2.6.11"
+  },
+  "scripts": {
+    "dev": "ts-node crawling.ts",
+    "jobs": "ts-node job.ts",
+    "instagram": "ts-node instagram.ts",
+    "dev2": "ts-node crawling2.ts"
+  },
+  "author": "ssyang",
+  "license": "ISC"
+}
